@@ -1,0 +1,1 @@
+console.log(3<1)   //teste de valores boleanos
