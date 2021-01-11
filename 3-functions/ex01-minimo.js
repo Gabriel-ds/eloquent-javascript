@@ -1,8 +1,5 @@
-
-
-function min(a,b) {
-    if (a < b){ return a}
-    else {return b}
+function min(a,b){
+    if(a < b) return a;
+    else if(a > b) return b;
 }
-
-console.log(min(4,10))
+console.log(min(10, 6))
