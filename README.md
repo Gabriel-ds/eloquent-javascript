@@ -1,4 +1,4 @@
-<h2>Eloquent JavaScript<h2>
+<h1>Eloquent JavaScript<h1>
  <p>Material containing examples, exercises and challenges from JS taken from the book "Eloquent JavaScript".</p>
  
 <img src="https://raw.githubusercontent.com/braziljs/eloquente-javascript/master/img/eloq-js.png">
